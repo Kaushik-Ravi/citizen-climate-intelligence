@@ -17,3 +17,7 @@ To run these scripts, you will need Python 3.9+ and the required libraries. You 
 
 ```bash
 pip install -r requirements.txt
+```
+
+## How to Cite
+If you use any part of this code or the concepts from our paper in your research, please cite our chapter.
