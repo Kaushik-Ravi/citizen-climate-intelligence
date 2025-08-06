@@ -1,0 +1,8 @@
+# Core libraries for data analysis and geospatial processing
+geopandas
+pandas
+numpy
+SQLAlchemy
+psycopg2-binary
+shapely
+requests
