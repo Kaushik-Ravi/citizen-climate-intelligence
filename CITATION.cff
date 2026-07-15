@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you use this software or repository, please cite the associated chapter and this repository."
+title: "Citizen Centered Climate Intelligence"
+type: software
+authors:
+  - family-names: Ravi
+    given-names: Kaushik
+    orcid: "https://orcid.org/0009-0009-5015-7464"
+  - family-names: Brück
+    given-names: Andreas
+    orcid: "https://orcid.org/0000-0002-5286-3700"
+repository-code: "https://github.com/Kaushik-Ravi/citizen-climate-intelligence"
+url: "https://github.com/Kaushik-Ravi/citizen-climate-intelligence"
+abstract: "Reference implementation and companion repository map for a citizen-centered urban climate intelligence framework linking tree measurement, urban cooling analytics, and eco-routing."
+keywords:
+  - citizen science
+  - urban trees
+  - urban heat
+  - eco-routing
+  - geoinformatics
+  - open data
+  - volunteered geographic information
+preferred-citation:
+  type: book-section
+  title: "Citizen Centered Climate Intelligence: Operationalizing Open Tree Data for Urban Cooling and Eco-Routing in Indian Cities"
+  authors:
+    - family-names: Ravi
+      given-names: Kaushik
+      orcid: "https://orcid.org/0009-0009-5015-7464"
+    - family-names: Brück
+      given-names: Andreas
+      orcid: "https://orcid.org/0000-0002-5286-3700"
+  collection-title: "Data, Cities and Citizens: How open data revolutionizes urban and transport planning"
+  status: forthcoming
