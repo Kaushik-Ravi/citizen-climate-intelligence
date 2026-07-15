@@ -25,12 +25,13 @@ In the Pune case study, the baseline tree inventory layer comes from the Pune mu
 | `routing_logic.py` | Reference logic for route scoring with environmental utility. |
 | `MODULES.md` | Mapping between chapter modules and companion implementation repositories. |
 | `REPRODUCIBILITY.md` | Scope, assumptions, and reproducibility notes for the case study. |
+| `ZENODO.md` | Release and DOI workflow for archiving the umbrella repository. |
 | `docs/data-flow.md` | Data-flow explanation for the integrated framework. |
 | `CITATION.cff` | Citation metadata for software citation tools. |
 
 ## Companion Repositories
 
-The full prototype is distributed across companion repositories rather than merged into this repository. This keeps each module's dependencies, deployment choices, and limitations explicit.
+The full prototype is distributed across companion repositories rather than vendored or merged into this repository. This keeps each module's dependencies, deployment choices, and limitations explicit while preserving the umbrella repository as the citation and reproducibility entry point.
 
 | Chapter module | Companion repository | Purpose |
 |---|---|---|
