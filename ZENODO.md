@@ -64,12 +64,12 @@ Use the **version DOI** in the chapter if the chapter refers to a fixed archived
 
 Use a short transparency sentence in the Methodology or Data/Code Availability section:
 
-> The reference implementation and module-level repository map for the framework are archived on Zenodo and available through the project repository (Ravi & Brück, 2026).
+> The reference implementation and module-level repository map for the framework are archived on Zenodo and available through the project repository (Ravi, 2026).
 
 After Zenodo mints the DOI, cite the software record in the references:
 
 ```text
-Ravi, K., & Brück, A. (2026). Citizen Centered Climate Intelligence (Version 0.1.0) [Computer software]. Zenodo. https://doi.org/[insert Zenodo DOI]
+Ravi, K. (2026). Citizen Centered Climate Intelligence (Version 0.1.0) [Computer software]. Zenodo. https://doi.org/[insert Zenodo DOI]
 ```
 
 If the publication style prefers repository access rather than software citation:

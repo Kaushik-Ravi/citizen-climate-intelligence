@@ -2,7 +2,7 @@
 
 Reference implementation and companion repository map for the chapter:
 
-**Ravi, K., & Brück, A. (forthcoming). Citizen Centered Climate Intelligence: Operationalizing Open Tree Data for Urban Cooling and Eco-Routing in Indian Cities. In _Data, Cities and Citizens: How open data revolutionizes urban and transport planning_.**
+**Citizen Centered Climate Intelligence: Operationalizing Open Tree Data for Urban Cooling and Eco-Routing in Indian Cities**, forthcoming in _Data, Cities and Citizens: How open data revolutionizes urban and transport planning_.
 
 ## Purpose
 
@@ -28,6 +28,7 @@ In the Pune case study, the baseline tree inventory layer comes from the Pune mu
 | `ZENODO.md` | Release and DOI workflow for archiving the umbrella repository. |
 | `docs/data-flow.md` | Data-flow explanation for the integrated framework. |
 | `CITATION.cff` | Citation metadata for software citation tools. |
+| `LICENSE` | MIT License for this reference software repository. |
 
 ## Companion Repositories
 
